@@ -1,0 +1,146 @@
+\begin{thebibliography}{10}
+
+\bibitem{beauregard2006pedestrian}
+Stephane Beauregard and Harald Haas.
+\newblock Pedestrian dead reckoning: A basis for personal positioning.
+\newblock In {\em Proceedings of the 3rd Workshop on Positioning, Navigation
+  and Communication}, pages 27--35, 2006.
+
+\bibitem{beauregard2008indoor}
+St{\'e}phane Beauregard, Martin Klepal, et~al.
+\newblock Indoor pdr performance enhancement using minimal map information and
+  particle filters.
+\newblock In {\em 2008 IEEE/ION Position, Location and Navigation Symposium},
+  pages 141--147. IEEE, 2008.
+
+\bibitem{cho2015automated}
+Jehyun Cho, Ghang Lee, and Seungjae Lee.
+\newblock An automated direction setting algorithm for a smart exit sign.
+\newblock {\em Automation in Construction}, 59:139--148, 2015.
+
+\bibitem{correa2014enhanced}
+Alejandro Correa, Marc Barcelo, Antoni Morell, and Jose~Lopez Vicario.
+\newblock Enhanced inertial-aided indoor tracking system for wireless sensor
+  networks: A review.
+\newblock {\em IEEE Sensors Journal}, 14(9):2921--2929, 2014.
+
+\bibitem{fahy2002us}
+Rita~F Fahy.
+\newblock {\em US Fire Service fatalities in structure fires, 1977-2000}.
+\newblock NFPA, 2002.
+
+\bibitem{gadeke2011pedestrian}
+T~Gadeke, Johannes Schmid, Wilhelm Stork, and KD~Muller-Glaser.
+\newblock Pedestrian dead reckoning for person localization in a wireless
+  sensor network.
+\newblock In {\em Proc. 2011 International conference on indoor positioning and
+  indoor navigation}, pages 1--4, 2011.
+
+\bibitem{jimenez2009comparison}
+Antonio~R Jimenez, Fernando Seco, Carlos Prieto, and Jorge Guevara.
+\newblock A comparison of pedestrian dead-reckoning algorithms using a low-cost
+  mems imu.
+\newblock In {\em Intelligent Signal Processing, 2009. WISP 2009. IEEE
+  International Symposium on}, pages 37--42. IEEE, 2009.
+
+\bibitem{kobes2010way}
+Margrethe Kobes, Ira Helsloot, Bauke de~Vries, Jos~G Post, Nancy Oberij{\'e},
+  and Karin Groenewegen.
+\newblock Way finding during fire evacuation; an analysis of unannounced fire
+  drills in a hotel at night.
+\newblock {\em Building and Environment}, 45(3):537--548, 2010.
+
+\bibitem{kumar2014accurate}
+Swarun Kumar, Stephanie Gil, Dina Katabi, and Daniela Rus.
+\newblock Accurate indoor localization with zero start-up cost.
+\newblock In {\em Proceedings of the 20th annual international conference on
+  Mobile computing and networking}, pages 483--494. ACM, 2014.
+
+\bibitem{liu2014providing}
+Hengchang Liu, Pan Hui, Zhiheng Xie, Jingyuan Li, David Siu, Gang Zhou,
+  Liusheng Huang, and John~A Stankovic.
+\newblock Providing reliable and real-time delivery in the presence of body
+  shadowing in breadcrumb systems.
+\newblock {\em ACM Transactions on Embedded Computing Systems (TECS)},
+  13(4):94, 2014.
+
+\bibitem{liu2010automatic}
+Hengchang Liu, Jingyuan Li, Zhiheng Xie, Shan Lin, Kamin Whitehouse, John~A
+  Stankovic, and David Siu.
+\newblock Automatic and robust breadcrumb system deployment for indoor
+  firefighter applications.
+\newblock In {\em Proceedings of the 8th international conference on Mobile
+  systems, applications, and services}, pages 21--34. ACM, 2010.
+
+\bibitem{luinge2005measuring}
+Henk~J Luinge and Peter~H Veltink.
+\newblock Measuring orientation of human body segments using miniature
+  gyroscopes and accelerometers.
+\newblock {\em Medical and Biological Engineering and computing},
+  43(2):273--282, 2005.
+
+\bibitem{madgwick2011estimation}
+Sebastian~OH Madgwick, Andrew~JL Harrison, and Ravi Vaidyanathan.
+\newblock Estimation of imu and marg orientation using a gradient descent
+  algorithm.
+\newblock In {\em 2011 IEEE International Conference on Rehabilitation
+  Robotics}, pages 1--7. IEEE, 2011.
+
+\bibitem{marins2001extended}
+Jo{\~a}o~Lu{\'\i}s Marins, Xiaoping Yun, Eric~R Bachmann, Robert~B McGhee, and
+  Michael~J Zyda.
+\newblock An extended kalman filter for quaternion-based orientation estimation
+  using marg sensors.
+\newblock In {\em Intelligent Robots and Systems, 2001. Proceedings. 2001
+  IEEE/RSJ International Conference on}, volume~4, pages 2003--2011. IEEE,
+  2001.
+
+\bibitem{nilsson2012foot}
+John-Olof Nilsson, Isaac Skog, Peter H{\"a}ndel, and KVS Hari.
+\newblock Foot-mounted ins for everybody-an open-source embedded
+  implementation.
+\newblock In {\em Position Location and Navigation Symposium (PLANS), 2012
+  IEEE/ION}, pages 140--145. IEEE, 2012.
+
+\bibitem{pu2005evacuation}
+Shi Pu and Sisi Zlatanova.
+\newblock Evacuation route calculation of inner buildings.
+\newblock In {\em Geo-information for disaster management}, pages 1143--1161.
+  Springer, 2005.
+
+\bibitem{ramirez2012landmarke}
+Leonardo Ramirez, Tobias Dyrks, Jan Gerwinski, Matthias Betz, Markus Scholz,
+  and Volker Wulf.
+\newblock Landmarke: an ad hoc deployable ubicomp infrastructure to support
+  indoor navigation of firefighters.
+\newblock {\em Personal and Ubiquitous Computing}, 16(8):1025--1038, 2012.
+
+\bibitem{ruiz2012accurate}
+Antonio Ram{\'o}n~Jim{\'e}nez Ruiz, Fernando~Seco Granja, Jos{\'e}
+  Carlos~Prieto Honorato, and Jorge I~Guevara Rosas.
+\newblock Accurate pedestrian indoor navigation by tightly coupling
+  foot-mounted imu and rfid measurements.
+\newblock {\em IEEE Transactions on Instrumentation and Measurement},
+  61(1):178--189, 2012.
+
+\bibitem{schmid2011fusion}
+Johannes Schmid, Tobias G{\"a}deke, Wilhelm Stork, and Klaus~D
+  M{\"u}ller-Glaser.
+\newblock On the fusion of inertial data for signal strength localization.
+\newblock In {\em Positioning Navigation and Communication (WPNC), 2011 8th
+  Workshop on}, pages 7--12. IEEE, 2011.
+
+\bibitem{yang2015wearables}
+Zhice Yang, Zeyu Wang, Jiansong Zhang, Chenyu Huang, and Qian Zhang.
+\newblock Wearables can afford: Light-weight indoor positioning with visible
+  light.
+\newblock In {\em Proceedings of the 13th Annual International Conference on
+  Mobile Systems, Applications, and Services}, pages 317--330. ACM, 2015.
+
+\bibitem{zheng2014travi}
+Yuanqing Zheng, Guobin Shen, Liqun Li, Chunshui Zhao, Mo~Li, and Feng Zhao.
+\newblock Travi-navi: Self-deployable indoor navigation system.
+\newblock In {\em Proceedings of the 20th annual international conference on
+  Mobile computing and networking}, pages 471--482. ACM, 2014.
+
+\end{thebibliography}
